@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @bigtheo
 - 👀 I’m interested in devepping 
-- 🌱 I’m currently learning c#
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+  call me on +2499416372 / tkapapa@itengineeringgroup.com
 
 <!---
 bigtheo/bigtheo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
