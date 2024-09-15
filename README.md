@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bigtheo
 - 👀 I’m interested in devepping 
 - 📫 How to reach me ...
-  call me on +2499416372 / tkapapa@itengineeringgroup.com
+  call me on +24994163572 / tkapapa@itengineeringgroup.com
 
 <!---
 bigtheo/bigtheo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
